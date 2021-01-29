@@ -21,7 +21,7 @@ Martin, Robert C. (2011). The Clean Coder: A Code of Conduct for Professional Pr
 Take your shoes off before you get on the matt
 
 ```javascript
-yarn;
+yarn install
 ```
 
 **to install**
