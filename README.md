@@ -18,7 +18,7 @@ Martin, Robert C. (2011). The Clean Coder: A Code of Conduct for Professional Pr
 
 ## Kata repo instructions
 
-Take your shoes off before you get on the matt
+Take your shoes off before you get on the mat.
 
 ```javascript
 yarn install
