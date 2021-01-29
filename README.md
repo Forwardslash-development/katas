@@ -15,3 +15,19 @@ The Coder's Dojo - A Different Way to Teach and Learn Programming. XP2005 in She
 Martin, Robert C. (2011). The Clean Coder: A Code of Conduct for Professional Programmers. Pearson Education. ISBN 9780137081073.
 
 ### [wiki](<https://en.wikipedia.org/wiki/Kata_(programming)>)
+
+## Kata repo instructions
+
+Take your shoes off before you get on the matt
+
+```javascript
+yarn;
+```
+
+**to install**
+
+```javascript
+yarn dev
+```
+
+**to run**
