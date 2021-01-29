@@ -26,8 +26,9 @@ yarn install
 
 **to install**
 
-```javascript
-yarn dev
+```
+yarn
 ```
 
 **to run**
+and nothing will happen. peace has been achieved. wait for further instructions.
