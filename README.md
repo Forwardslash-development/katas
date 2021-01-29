@@ -20,15 +20,16 @@ Martin, Robert C. (2011). The Clean Coder: A Code of Conduct for Professional Pr
 
 Take your shoes off before you get on the mat.
 
+**to install**
+
 ```javascript
 yarn install
 ```
 
-**to install**
+**to run**
 
 ```
 yarn
 ```
 
-**to run**
-and nothing will happen. peace has been achieved. wait for further instructions.
+nothing will happen. peace has been achieved. wait for further instructions.
