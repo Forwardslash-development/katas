@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Forwardslash-development/katas/issues"
   },
-  "homepage": "https://github.com/Forwardslash-development/katas#readme"
+  "homepage": "https://github.com/Forwardslash-development/katas#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
